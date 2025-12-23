@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Receptionist
+#  AI Chatbot Receptionist
 
 An AI-powered chatbot receptionist built using an automation workflow that can:
 - Handle incoming chat messages
@@ -9,19 +9,19 @@ An AI-powered chatbot receptionist built using an automation workflow that can:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 💬 **Real-time Chat Handling**
-- 🧠 **AI Agent with Memory**
-- 📅 **Calendar Event Creation & Retrieval**
-- 📊 **Google Sheets Integration**
-- 🔁 **Conditional Flow Logic**
-- 🌐 **Webhook-Based Responses**
-- 🏢 **Perfect for Receptionist / Assistant Use-Cases**
+-  **Real-time Chat Handling**
+-  **AI Agent with Memory**
+-  **Calendar Event Creation & Retrieval**
+-  **Google Sheets Integration**
+-  **Conditional Flow Logic**
+-  **Webhook-Based Responses**
+-  **Perfect for Receptionist / Assistant Use-Cases**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Automation Platform:** (Make / Flow-based Automation)
 - **AI Model:** Groq Chat Model
@@ -33,7 +33,7 @@ An AI-powered chatbot receptionist built using an automation workflow that can:
 
 ---
 
-## 🧩 Workflow Overview
+##  Workflow Overview
 
 1. **Chat Message Received**
 2. **Condition Check (If Node)**
@@ -63,16 +63,5 @@ An AI-powered chatbot receptionist built using an automation workflow that can:
 
 ---
 
-## 📂 Project Structure
 
-```text
-ai-chatbot-receptionist/
-│
-├── README.md
-├── assets/
-│   └── workflow.png
-├── workflows/
-│   └── ai_receptionist_flow.json
-└── docs/
-    └── setup.md
 
