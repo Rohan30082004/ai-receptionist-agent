@@ -49,7 +49,7 @@ An AI-powered chatbot receptionist built using an automation workflow that can:
 
 ## 📸 Workflow Diagram
 
-![Workflow Diagram](./assets/workflow.png)
+![image alt](https://github.com/Rohan30082004/ai-receptionist-agent/blob/87dd76378e6de95edd08bbda6857a9f0c14b231f/Screenshot%2023dec.png)
 
 ---
 
